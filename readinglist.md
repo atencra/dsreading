@@ -42,6 +42,8 @@ http://willwolf.io/2017/04/19/deriving-the-softmax-from-first-principles/
 
 https://cognitiveclass.ai/courses/
 
+https://machinelearningmastery.com/machine-learning-books/
+
 ## Explaining Machine Learning Results
 
 https://medium.com/applied-data-science/new-r-package-the-xgboost-explainer-51dd7d1aa211
