@@ -12,6 +12,8 @@ https://www.machinelearningplus.com/machine-learning/caret-package/
 
 https://www.machinelearningplus.com/machine-learning/feature-selection/
 
+http://tomaugspurger.github.io/archives.html
+
 
 ## Tutorials
 
