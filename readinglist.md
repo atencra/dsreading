@@ -83,6 +83,8 @@ https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-wi
 
 https://packedbars.com/
 
+http://serialmentor.com/dataviz/
+
 
 ## Great Resources
 
