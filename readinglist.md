@@ -76,6 +76,8 @@ https://www.kaggle.com/raoulma/cancer-image-tensorflow-cnn-80-valid-acc/code
 
 http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 
+https://github.com/jjallaire/deep-learning-with-r-notebooks
+
 
 ## Plotting
 
