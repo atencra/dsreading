@@ -68,6 +68,8 @@ https://rubikscode.net/2018/03/05/implementation-of-convolutional-neural-network
 
 http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
 
+https://www.kaggle.com/raoulma/cancer-image-tensorflow-cnn-80-valid-acc/code
+
 
 ## Plotting
 
