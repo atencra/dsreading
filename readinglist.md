@@ -14,6 +14,8 @@ https://www.machinelearningplus.com/machine-learning/feature-selection/
 
 http://tomaugspurger.github.io/archives.html
 
+http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/
+
 
 ## Tutorials
 
