@@ -70,6 +70,8 @@ http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/
 
 https://www.kaggle.com/raoulma/cancer-image-tensorflow-cnn-80-valid-acc/code
 
+http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
+
 
 ## Plotting
 
