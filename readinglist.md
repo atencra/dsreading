@@ -16,6 +16,8 @@ http://tomaugspurger.github.io/archives.html
 
 http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/
 
+https://github.com/pandas-profiling/pandas-profiling
+
 
 ## Tutorials
 
@@ -62,6 +64,10 @@ http://smarterpoland.pl/index.php/2018/02/dalex-conditional-single-variable-resp
 
 http://smarterpoland.pl/index.php/2018/02/dalex-which-variables-influence-this-single-prediction/
 
+https://github.com/slundberg/shap
+
+https://github.com/AustinRochford/PyCEbox
+
 ## Neural Networks
 
 https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
@@ -94,6 +100,8 @@ https://towardsdatascience.com/5-quick-and-easy-data-visualizations-in-python-wi
 https://packedbars.com/
 
 http://serialmentor.com/dataviz/
+
+https://github.com/fkeck/editheme
 
 
 ## Great Resources
