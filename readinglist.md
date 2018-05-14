@@ -72,6 +72,8 @@ https://github.com/AustinRochford/PyCEbox
 
 ## Neural Networks
 
+https://datasciencelab.wordpress.com/2014/01/10/machine-learning-classics-the-perceptron/
+
 https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
 
 http://www.argmin.net/2018/01/25/optics/
@@ -90,6 +92,25 @@ http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 
 https://github.com/jjallaire/deep-learning-with-r-notebooks
 
+## Clustering
+
+https://datasciencelab.wordpress.com/2013/12/12/clustering-with-k-means-in-python/
+
+https://datasciencelab.wordpress.com/2013/12/27/finding-the-k-in-k-means-clustering/
+
+https://datasciencelab.wordpress.com/2014/01/21/selection-of-k-in-k-means-clustering-reloaded/
+
+http://alexhwilliams.info/itsneuronalblog/2015/09/11/clustering1/
+
+http://alexhwilliams.info/itsneuronalblog/2015/10/01/clustering2/
+
+http://alexhwilliams.info/itsneuronalblog/2015/11/18/clustering-is-easy/
+
+## Python: Pandas
+
+https://datasciencelab.wordpress.com/2013/11/18/put-some-pandas-in-your-python/
+
+https://datasciencelab.wordpress.com/2013/12/21/beautiful-plots-with-pandas-and-matplotlib/
 
 ## Plotting
 
