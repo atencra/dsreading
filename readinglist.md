@@ -2,6 +2,8 @@
 
 ## From Scratch
 
+https://github.com/eriklindernoren/ML-From-Scratch
+
 http://selbydavid.com/2018/01/09/neural-network/
 
 https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
