@@ -8,6 +8,11 @@ http://selbydavid.com/2018/01/09/neural-network/
 
 https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
 
+https://github.com/ferronrsmith/programming-collective-intelligence-code
+
+https://github.com/arthur-e/Programming-Collective-Intelligence
+
+
 ## Using Packages
 
 https://www.machinelearningplus.com/machine-learning/caret-package/
@@ -54,7 +59,11 @@ https://machinelearningmastery.com/machine-learning-books/
 
 http://fa.bianp.net/teaching/2018/eecs227at/
 
+https://jakevdp.github.io/PythonDataScienceHandbook/
+
 https://github.com/ageron/handson-ml
+
+https://michhar.github.io/navigating-ml/
 
 ## Explaining Machine Learning Results
 
@@ -92,6 +101,9 @@ http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html
 
 https://github.com/jjallaire/deep-learning-with-r-notebooks
 
+https://rubikscode.net/2018/02/19/artificial-neural-networks-series/
+
+
 ## Clustering
 
 https://datasciencelab.wordpress.com/2013/12/12/clustering-with-k-means-in-python/
@@ -112,6 +124,13 @@ https://datasciencelab.wordpress.com/2013/11/18/put-some-pandas-in-your-python/
 
 https://datasciencelab.wordpress.com/2013/12/21/beautiful-plots-with-pandas-and-matplotlib/
 
+http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/
+
+http://dataconomy.com/2015/03/14-best-python-pandas-features/
+
+https://pythonforbiologists.com/when-to-use-aggregatefiltertransform-in-pandas/
+
+
 ## Plotting
 
 https://realpython.com/python-matplotlib-guide/
@@ -126,6 +145,15 @@ http://serialmentor.com/dataviz/
 
 https://github.com/fkeck/editheme
 
+https://www.kaggle.com/learn/data-visualisation
+
+## Projects
+
+https://coderwall.com/p/lt2kew/python-creating-your-project-structure
+
+http://docs.python-guide.org/en/latest/writing/structure/
+
+https://stackoverflow.com/questions/193161/what-is-the-best-project-structure-for-a-python-application
 
 ## Great Resources
 
@@ -139,3 +167,29 @@ http://www.fharrell.com/
 ## Cheat Sheets
 
 http://www.datasciencefree.com/cheatsheets.html
+
+https://www.rstudio.com/resources/cheatsheets/
+
+https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
+
+https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+https://www.markdownguide.org/cheat-sheet
+
+
+## Data Science
+
+https://www.kaggle.com/learn/overview
+
+## SQL
+
+
+
+## Python
+
+https://github.com/wilfreddesert/python_more_awesome
+
+
+
