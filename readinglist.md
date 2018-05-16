@@ -209,7 +209,21 @@ https://www.markdownguide.org/cheat-sheet
 https://www.kaggle.com/learn/overview
 
 ## SQL
+http://www.smart-soft.co.uk/Oracle/advanced-sql-tutorial.htm#.WvyOtaSUuUk
 
+http://lsirwww.epfl.ch/courses/iis/2006ss/
+
+http://www.datacarpentry.org/python-ecology-lesson/08-working-with-sql/
+
+http://www.dofactory.com/sql/tutorial
+
+https://ocw.mit.edu/courses/urban-studies-and-planning/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/lecture-notes/lect4.pdf
+
+https://stackoverflow.com/questions/2054130/what-is-advanced-sql
+
+http://www.complexsql.com/complex-sql-queries-examples-with-answers/
+
+http://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql
 
 
 ## Python
