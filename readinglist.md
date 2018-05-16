@@ -139,8 +139,11 @@ http://dataconomy.com/2015/03/14-best-python-pandas-features/
 https://pythonforbiologists.com/when-to-use-aggregatefiltertransform-in-pandas/
 
 https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
+
 https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
+
 https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
+
 https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/
 
 https://www.machinelearningplus.com/python/101-pandas-exercises-python/
