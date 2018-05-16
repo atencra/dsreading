@@ -25,6 +25,12 @@ http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/
 
 https://github.com/pandas-profiling/pandas-profiling
 
+https://www.analyticsvidhya.com/blog/2015/12/faster-data-manipulation-7-packages/
+
+https://rollingyours.wordpress.com/2016/06/29/express-intro-to-dplyr/
+
+https://rollingyours.wordpress.com/2016/07/07/express-dplyr-part-ii/
+
 
 ## Tutorials
 
@@ -46,6 +52,8 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
 
 ## Learning Machine Learning
+
+http://blog.citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics
 
 https://www.kdnuggets.com/2017/03/seven-more-steps-machine-learning-python.html
 
@@ -130,8 +138,19 @@ http://dataconomy.com/2015/03/14-best-python-pandas-features/
 
 https://pythonforbiologists.com/when-to-use-aggregatefiltertransform-in-pandas/
 
+https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
+https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
+https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
+https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/
+
+https://www.machinelearningplus.com/python/101-pandas-exercises-python/
+
+https://github.com/justmarkham/pandas-videos
+
 
 ## Plotting
+
+https://rollingyours.wordpress.com/2014/02/17/conditioning-and-grouping-with-lattice-graphics/
 
 https://realpython.com/python-matplotlib-guide/
 
@@ -163,6 +182,12 @@ http://www.datasciencemadesimple.com/
 
 http://www.fharrell.com/
 
+http://www.fast.ai/
+
+https://cognitiveclass.ai/courses/
+
+https://www.kaggle.com/learn/overview
+
 
 ## Cheat Sheets
 
@@ -189,7 +214,61 @@ https://www.kaggle.com/learn/overview
 
 ## Python
 
+https://realpython.com/python-beginner-tips/
+
 https://github.com/wilfreddesert/python_more_awesome
 
+https://www.kdnuggets.com/2018/03/top-5-best-jupyter-notebook-extensions.html
+
+https://realpython.com/learn-python-the-methodical-way/
+
+http://www.sharats.me/posts/the-python-dictionary/
+
+https://realpython.com/python-pathlib/
+
+https://blog.modeanalytics.com/set-operations-python-sql/
+
+https://github.com/arogozhnikov/python3_with_pleasure/blob/master/README.md
+
+https://www.machinelearningplus.com/python/101-numpy-exercises-python/
+
+## R
+
+http://www.burns-stat.com/documents/public-domain-code/
+
+https://justrthings.com/2016/07/31/create-progress-bars-to-monitor-for-loops/
+
+http://lgatto.github.io/tipsntRicks/
+
+https://stackoverflow.com/questions/1295955/what-is-the-most-useful-r-trick
+
+https://www.computerworld.com/article/3184778/data-analytics/6-useful-r-functions-you-might-not-know.html
+
+https://www.computerworld.com/article/2921176/business-intelligence/great-r-packages-for-data-import-wrangling-visualization.html
+
+https://anythingbutrbitrary.blogspot.com/2012/08/manipulating-data-frames-using-sqldf.html
+
+https://rollingyours.wordpress.com/2014/10/20/the-lapply-command-101/
+
+## Matlab
+
+http://www.matlab-cookbook.com/
 
 
+## Audio
+
+https://github.com/tyiannak/pyAudioAnalysis
+
+## Data cleaning
+
+https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
+
+http://lineardata.net/the-ultimate-guide-to-cleaning-data-in-r/
+
+http://www.markvanderloo.eu/files/statistics/data-cleaning-satRdays-budapest.pdf
+
+
+
+## Projects
+
+http://agilemanifesto.org/
