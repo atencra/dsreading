@@ -89,6 +89,8 @@ https://github.com/AustinRochford/PyCEbox
 
 ## Neural Networks
 
+https://github.com/ilkarman/DemoNeuralNet
+
 https://datasciencelab.wordpress.com/2014/01/10/machine-learning-classics-the-perceptron/
 
 http://iamtrask.github.io/2015/07/12/basic-python-network/
@@ -98,6 +100,8 @@ http://iamtrask.github.io/2015/07/27/python-network-part2/
 This book may be good. The previous blog articles were insightful:
 
 https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258
+
+https://adeshpande3.github.io/
 
 https://medium.com/mlreview/a-guide-to-receptive-field-arithmetic-for-convolutional-neural-networks-e0f514068807
 
