@@ -53,6 +53,12 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
 ## Learning Machine Learning
 
+http://learnds.com/
+
+https://codesachin.wordpress.com/2016/03/06/a-small-introduction-to-boosting/
+
+https://freakonometrics.hypotheses.org/19874
+
 http://blog.citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics
 
 https://www.kdnuggets.com/2017/03/seven-more-steps-machine-learning-python.html
@@ -138,6 +144,11 @@ http://alexhwilliams.info/itsneuronalblog/2015/10/01/clustering2/
 
 http://alexhwilliams.info/itsneuronalblog/2015/11/18/clustering-is-easy/
 
+
+## Dimension Reduction
+
+https://tgmstat.wordpress.com/2013/11/28/computing-and-visualizing-pca-in-r/
+
 ## Python: Pandas
 
 https://datasciencelab.wordpress.com/2013/11/18/put-some-pandas-in-your-python/
@@ -181,6 +192,12 @@ https://github.com/fkeck/editheme
 
 https://www.kaggle.com/learn/data-visualisation
 
+## Jupyter Notebook
+
+https://plot.ly/python/ipython-notebook-tutorial/
+
+http://nbviewer.jupyter.org/github/brandomr/document_cluster/blob/master/cluster_analysis_web.ipynb?utm_campaign=Data%2BElixir&utm_medium=email&utm_source=Data_Elixir_41
+
 ## Projects
 
 https://coderwall.com/p/lt2kew/python-creating-your-project-structure
@@ -188,6 +205,22 @@ https://coderwall.com/p/lt2kew/python-creating-your-project-structure
 http://docs.python-guide.org/en/latest/writing/structure/
 
 https://stackoverflow.com/questions/193161/what-is-the-best-project-structure-for-a-python-application
+
+## Case studies
+
+https://github.com/wehrley/wehrley.github.io/blob/master/SOUPTONUTS.md
+
+https://wiekvoet.blogspot.com/2015/07/predicting-titanic-deaths-on-kaggle.html
+
+http://wiekvoet.blogspot.nl/2015/07/predicting-titanic-deaths-on-kaggle.html
+
+http://wiekvoet.blogspot.ca/2012/12/common-words-in-gathering-storm.html
+
+http://wiekvoet.blogspot.nl/2015/07/predicting-titanic-deaths-on-kaggle-ii.html
+
+http://wiekvoet.blogspot.com/2015/08/predicting-titanic-deaths-on-kaggle-iii.html
+
+http://wiekvoet.blogspot.com/2015/08/predicting-titanic-deaths-on-kaggle-iv.html
 
 ## Great Resources
 
@@ -202,6 +235,8 @@ http://www.fast.ai/
 https://cognitiveclass.ai/courses/
 
 https://www.kaggle.com/learn/overview
+
+https://freakonometrics.hypotheses.org/
 
 
 ## Cheat Sheets
@@ -222,6 +257,8 @@ https://www.markdownguide.org/cheat-sheet
 ## Data Science
 
 https://www.kaggle.com/learn/overview
+
+http://blog.datadive.net/
 
 ## SQL
 http://www.smart-soft.co.uk/Oracle/advanced-sql-tutorial.htm#.WvyOtaSUuUk
@@ -283,10 +320,13 @@ https://rollingyours.wordpress.com/2014/10/20/the-lapply-command-101/
 
 http://www.matlab-cookbook.com/
 
+http://www.matlabtips.com/
+
 
 ## Audio
 
 https://github.com/tyiannak/pyAudioAnalysis
+
 
 ## Data cleaning
 
