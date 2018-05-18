@@ -1,5 +1,7 @@
 # Reading list links
 
+A preliminary organization.
+
 ## From Scratch
 
 https://github.com/eriklindernoren/ML-From-Scratch
