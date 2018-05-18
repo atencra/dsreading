@@ -14,6 +14,8 @@ https://github.com/ferronrsmith/programming-collective-intelligence-code
 
 https://github.com/arthur-e/Programming-Collective-Intelligence
 
+https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
+
 
 ## Using Packages
 
@@ -62,6 +64,8 @@ https://codesachin.wordpress.com/2016/03/06/a-small-introduction-to-boosting/
 https://freakonometrics.hypotheses.org/19874
 
 http://blog.citizennet.com/blog/2012/11/10/random-forests-ensembles-and-performance-metrics
+
+https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
 
 https://www.kdnuggets.com/2017/03/seven-more-steps-machine-learning-python.html
 
@@ -170,6 +174,13 @@ http://alexhwilliams.info/itsneuronalblog/2015/11/18/clustering-is-easy/
 
 https://tgmstat.wordpress.com/2013/11/28/computing-and-visualizing-pca-in-r/
 
+http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/
+
+http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/
+
+http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/
+
+
 ## Python: Pandas
 
 https://datasciencelab.wordpress.com/2013/11/18/put-some-pandas-in-your-python/
@@ -215,6 +226,8 @@ https://www.kaggle.com/learn/data-visualisation
 
 https://hopstat.wordpress.com/2016/02/18/how-i-build-up-a-ggplot2-figure/
 
+https://datascienceplus.com/taking-the-baseline-measurement-into-account-constrained-lda-in-r/
+
 
 ## Jupyter Notebook
 
@@ -247,6 +260,9 @@ http://wiekvoet.blogspot.com/2015/08/predicting-titanic-deaths-on-kaggle-iii.htm
 http://wiekvoet.blogspot.com/2015/08/predicting-titanic-deaths-on-kaggle-iv.html
 
 https://will-stanton.com/2015/03/08/machine-learning-with-r-an-irresponsibly-fast-tutorial/
+
+https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
+
 
 ## Great Resources
 
