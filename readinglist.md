@@ -81,6 +81,8 @@ https://github.com/ageron/handson-ml
 
 https://michhar.github.io/navigating-ml/
 
+https://freakonometrics.hypotheses.org/19835
+
 ## Explaining Machine Learning Results
 
 https://medium.com/applied-data-science/new-r-package-the-xgboost-explainer-51dd7d1aa211
@@ -95,11 +97,28 @@ https://github.com/slundberg/shap
 
 https://github.com/AustinRochford/PyCEbox
 
+https://freakonometrics.hypotheses.org/19835
+
+
+## Class imbalance
+
+http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/
+
+
+## Model Evaluation
+
+http://www.milanor.net/blog/cross-validation-for-predictive-analytics-using-r/
+
+
 ## Neural Networks
 
 https://github.com/ilkarman/DemoNeuralNet
 
 https://datasciencelab.wordpress.com/2014/01/10/machine-learning-classics-the-perceptron/
+
+http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r
+
+http://junma5.weebly.com/data-blog/understanding-logistic-regression-from-scratch
 
 http://iamtrask.github.io/2015/07/12/basic-python-network/
 
@@ -194,6 +213,9 @@ https://github.com/fkeck/editheme
 
 https://www.kaggle.com/learn/data-visualisation
 
+https://hopstat.wordpress.com/2016/02/18/how-i-build-up-a-ggplot2-figure/
+
+
 ## Jupyter Notebook
 
 https://plot.ly/python/ipython-notebook-tutorial/
@@ -224,6 +246,8 @@ http://wiekvoet.blogspot.com/2015/08/predicting-titanic-deaths-on-kaggle-iii.htm
 
 http://wiekvoet.blogspot.com/2015/08/predicting-titanic-deaths-on-kaggle-iv.html
 
+https://will-stanton.com/2015/03/08/machine-learning-with-r-an-irresponsibly-fast-tutorial/
+
 ## Great Resources
 
 https://chrisalbon.com/
@@ -240,6 +264,7 @@ https://www.kaggle.com/learn/overview
 
 https://freakonometrics.hypotheses.org/
 
+https://gigadom.wordpress.com/
 
 ## Cheat Sheets
 
@@ -261,6 +286,8 @@ https://www.markdownguide.org/cheat-sheet
 https://www.kaggle.com/learn/overview
 
 http://blog.datadive.net/
+
+https://livebook.datascienceheroes.com/
 
 ## SQL
 http://www.smart-soft.co.uk/Oracle/advanced-sql-tutorial.htm#.WvyOtaSUuUk
