@@ -282,6 +282,9 @@ https://freakonometrics.hypotheses.org/
 
 https://gigadom.wordpress.com/
 
+http://pbpython.com/
+
+
 ## Cheat Sheets
 
 http://www.datasciencefree.com/cheatsheets.html
