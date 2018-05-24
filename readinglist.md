@@ -181,25 +181,25 @@ http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/
 
 ## Python: Pandas
 
-https://datasciencelab.wordpress.com/2013/11/18/put-some-pandas-in-your-python/
+[Put Some Pandas in Your Python](https://datasciencelab.wordpress.com/2013/11/18/put-some-pandas-in-your-python/)
 
-https://datasciencelab.wordpress.com/2013/12/21/beautiful-plots-with-pandas-and-matplotlib/
+[Beautiful Plots With Pandas and Matplotlib](https://datasciencelab.wordpress.com/2013/12/21/beautiful-plots-with-pandas-and-matplotlib/)
 
-http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/
+[Statistical analysis made easy in Python with SciPy and pandas DataFrames](http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/)
 
-http://dataconomy.com/2015/03/14-best-python-pandas-features/
+[14 BEST PYTHON PANDAS FEATURES](http://dataconomy.com/2015/03/14-best-python-pandas-features/)
 
-https://pythonforbiologists.com/when-to-use-aggregatefiltertransform-in-pandas/
+[When to use aggregate/filter/transform with Pandas](https://pythonforbiologists.com/when-to-use-aggregatefiltertransform-in-pandas/)
 
-https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/
+[The Pandas DataFrame – loading, editing, and viewing data in Python](https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/)
 
-https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
+[Summarising, Aggregating, and Grouping data in Python Pandas](https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/)
 
-https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/
+[Using iloc, loc, & ix to select rows and columns in Pandas DataFrames](https://www.shanelynn.ie/select-pandas-dataframe-rows-and-columns-using-iloc-loc-and-ix/)
 
-https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/
+[Merge and Join DataFrames with Pandas in Python](https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/)
 
-https://www.machinelearningplus.com/python/101-pandas-exercises-python/
+[101 Pandas Exercises for Data Analysis](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 
 https://github.com/justmarkham/pandas-videos
 
