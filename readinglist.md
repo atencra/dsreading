@@ -4,17 +4,17 @@ A preliminary organization.
 
 ## From Scratch
 
-https://github.com/eriklindernoren/ML-From-Scratch
+[Machine learning from scratch by Erik Linder-Noren](https://github.com/eriklindernoren/ML-From-Scratch)
 
-http://selbydavid.com/2018/01/09/neural-network/
+[Building a neural network from scratch in R](http://selbydavid.com/2018/01/09/neural-network/)
 
-https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/
+[Understanding and coding Neural Networks From Scratch in Python and R](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
 
-https://github.com/ferronrsmith/programming-collective-intelligence-code
+[Programming collective intelligence](https://github.com/ferronrsmith/programming-collective-intelligence-code) - resource with algorithms from scratch.
 
-https://github.com/arthur-e/Programming-Collective-Intelligence
+[Programming Collective Intelligence](https://github.com/arthur-e/Programming-Collective-Intelligence)
 
-https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
+[Gradient boosting from scratch](https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d)
 
 
 ## Using Packages
