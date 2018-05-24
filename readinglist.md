@@ -23,8 +23,6 @@ A preliminary organization.
 
 [Feature Selection – Ten Powerful Methods with Complete Examples](https://www.machinelearningplus.com/machine-learning/feature-selection/)
 
-http://tomaugspurger.github.io/archives.html
-
 http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/
 
 https://github.com/pandas-profiling/pandas-profiling
@@ -204,6 +202,9 @@ https://www.shanelynn.ie/merge-join-dataframes-python-pandas-index-1/
 https://www.machinelearningplus.com/python/101-pandas-exercises-python/
 
 https://github.com/justmarkham/pandas-videos
+
+http://tomaugspurger.github.io/archives.html
+
 
 
 ## Plotting
