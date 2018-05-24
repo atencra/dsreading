@@ -19,9 +19,9 @@ A preliminary organization.
 
 ## Using Packages
 
-https://www.machinelearningplus.com/machine-learning/caret-package/
+[Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
 
-https://www.machinelearningplus.com/machine-learning/feature-selection/
+[Feature Selection – Ten Powerful Methods with Complete Examples](https://www.machinelearningplus.com/machine-learning/feature-selection/)
 
 http://tomaugspurger.github.io/archives.html
 
