@@ -236,6 +236,8 @@ https://hopstat.wordpress.com/2016/02/18/how-i-build-up-a-ggplot2-figure/
 
 https://datascienceplus.com/taking-the-baseline-measurement-into-account-constrained-lda-in-r/
 
+[Plotting background data for groups in ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
+
 
 ## Jupyter Notebook
 
