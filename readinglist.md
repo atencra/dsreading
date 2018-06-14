@@ -116,7 +116,11 @@ http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier
 
 ## Model Evaluation
 
-http://www.milanor.net/blog/cross-validation-for-predictive-analytics-using-r/
+[Cross-validation for predictive analytics using R](http://www.milanor.net/blog/cross-validation-for-predictive-analytics-using-r/)
+
+[ROCs in two lines of code](http://blog.revolutionanalytics.com/2016/08/roc-curves-in-two-lines-of-code.html)
+
+[Calculating ROC Area Under the Curve (AUC)](http://blog.revolutionanalytics.com/2016/11/calculating-auc.html)
 
 
 ## Neural Networks
