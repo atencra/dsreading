@@ -52,6 +52,10 @@ https://gigadom.wordpress.com/
 
 https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
+[Machine Learning Walk Through](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
+
+[Machine Learning Walk Through](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
+
 
 ## Learning Machine Learning
 
