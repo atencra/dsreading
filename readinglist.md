@@ -314,8 +314,7 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 [Toward Data Science](https://towardsdatascience.com/)
 
-
-
+[Statistical tools for high-throughput data analysis](http://www.sthda.com/english/)
 
 
 
