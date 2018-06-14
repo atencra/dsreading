@@ -289,6 +289,8 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 [Wiekvoet](http://wiekvoet.blogspot.com/)
 
+[Scientifically Sound](https://scientificallysound.org/)
+
 
 ## Cheat Sheets
 
