@@ -267,25 +267,27 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 ## Great Resources
 
-https://chrisalbon.com/
+[https://chrisalbon.com/](Chris Albon)
 
-http://www.datasciencemadesimple.com/
+[http://www.datasciencemadesimple.com/](Data Science Made Simple)
 
-http://www.fharrell.com/
+[http://www.fharrell.com/](Fred Harrell)
 
-http://www.fast.ai/
+[http://www.fast.ai/](Fast AI)
 
-https://cognitiveclass.ai/courses/
+[https://cognitiveclass.ai/courses/](Cognitive Class AI)
 
-https://www.kaggle.com/learn/overview
+[https://www.kaggle.com/learn/overview](Kaggle Machine Learning)
 
-https://freakonometrics.hypotheses.org/
+[https://freakonometrics.hypotheses.org/](Arthur Charpentier)
 
-https://gigadom.wordpress.com/
+[https://gigadom.wordpress.com/](Gigadom)
 
-http://pbpython.com/
+[http://pbpython.com/](Practical Business Python)
 
-http://blog.datadive.net/
+[http://blog.datadive.net/](Data Dive)
+
+[http://wiekvoet.blogspot.com/](Wiekvoet)
 
 
 ## Cheat Sheets
