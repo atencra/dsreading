@@ -87,6 +87,8 @@ https://freakonometrics.hypotheses.org/19835
 
 [Machine Learning Plus](https://www.machinelearningplus.com/)
 
+[Confidence Intervals for Scikit Learn Random Forests](http://contrib.scikit-learn.org/forest-confidence-interval/)
+
 
 ## Explaining Machine Learning Results
 
