@@ -238,11 +238,13 @@ http://nbviewer.jupyter.org/github/brandomr/document_cluster/blob/master/cluster
 
 ## Projects
 
-https://coderwall.com/p/lt2kew/python-creating-your-project-structure
+[Creating your project structure](https://coderwall.com/p/lt2kew/python-creating-your-project-structure)
 
-http://docs.python-guide.org/en/latest/writing/structure/
+[Python Structure](http://docs.python-guide.org/en/latest/writing/structure/)
 
-https://stackoverflow.com/questions/193161/what-is-the-best-project-structure-for-a-python-application
+[What is the best project structure for a python application?](https://stackoverflow.com/questions/193161/what-is-the-best-project-structure-for-a-python-application)
+
+[Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
 
 ## Case studies
 
@@ -290,6 +292,14 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 [Wiekvoet](http://wiekvoet.blogspot.com/)
 
 [Scientifically Sound](https://scientificallysound.org/)
+
+[Elite Data Science](https://elitedatascience.com/)
+
+[Toward Data Science](https://towardsdatascience.com/)
+
+
+
+
 
 
 ## Cheat Sheets
