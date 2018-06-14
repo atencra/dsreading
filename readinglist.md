@@ -89,6 +89,8 @@ https://freakonometrics.hypotheses.org/19835
 
 [Confidence Intervals for Scikit Learn Random Forests](http://contrib.scikit-learn.org/forest-confidence-interval/)
 
+[5 Fantastic Practical Machine Learning Resources](https://www.kdnuggets.com/2018/02/5-fantastic-practical-machine-learning-resources.html)
+
 
 ## Explaining Machine Learning Results
 
