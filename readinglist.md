@@ -77,13 +77,16 @@ https://machinelearningmastery.com/machine-learning-books/
 
 http://fa.bianp.net/teaching/2018/eecs227at/
 
-https://jakevdp.github.io/PythonDataScienceHandbook/
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
-https://github.com/ageron/handson-ml
+[Hands-on Machine Learning with Scikit-Learn and TensorFlow](https://github.com/ageron/handson-ml)
 
 https://michhar.github.io/navigating-ml/
 
 https://freakonometrics.hypotheses.org/19835
+
+[Machine Learning Plus](https://www.machinelearningplus.com/)
+
 
 ## Explaining Machine Learning Results
 
@@ -380,6 +383,8 @@ https://www.computerworld.com/article/2921176/business-intelligence/great-r-pack
 https://anythingbutrbitrary.blogspot.com/2012/08/manipulating-data-frames-using-sqldf.html
 
 https://rollingyours.wordpress.com/2014/10/20/the-lapply-command-101/
+
+[r-statistics.co](http://r-statistics.co/)
 
 ## Matlab
 
