@@ -114,6 +114,8 @@ https://freakonometrics.hypotheses.org/19835
 
 [Random Forest Confidence Intervals](http://contrib.scikit-learn.org/forest-confidence-interval/)
 
+[Beware Default Random Forest Variable Importance](http://explained.ai/rf-importance/index.html)
+
 
 ## Class imbalance
 
