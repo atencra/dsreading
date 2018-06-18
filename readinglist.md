@@ -348,6 +348,11 @@ https://livebook.datascienceheroes.com/
 [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 
 
+## Data Cleaning
+
+[How to tackle common data cleaning issues in R](https://www.kdnuggets.com/2018/05/packt-tackle-common-data-cleaning-issues-r.html)
+
+
 
 ## SQL
 http://www.smart-soft.co.uk/Oracle/advanced-sql-tutorial.htm#.WvyOtaSUuUk
