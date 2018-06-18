@@ -112,6 +112,8 @@ https://github.com/AustinRochford/PyCEbox
 
 https://freakonometrics.hypotheses.org/19835
 
+[Random Forest Confidence Intervals](http://contrib.scikit-learn.org/forest-confidence-interval/)
+
 
 ## Class imbalance
 
