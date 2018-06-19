@@ -98,7 +98,7 @@ https://freakonometrics.hypotheses.org/19835
 
 ## Explaining Machine Learning Results
 
-https://medium.com/applied-data-science/new-r-package-the-xgboost-explainer-51dd7d1aa211
+[NEW R package that makes XGBoost interpretable](https://medium.com/applied-data-science/new-r-package-the-xgboost-explainer-51dd7d1aa211)
 
 https://distill.pub/2018/building-blocks/
 
