@@ -25,13 +25,13 @@ A preliminary organization.
 
 [Statistical analysis made easy in Python with SciPy and pandas DataFrames](http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/)
 
-https://github.com/pandas-profiling/pandas-profiling
+[Generates profile reports from a pandas DataFrame](https://github.com/pandas-profiling/pandas-profiling)
 
-https://www.analyticsvidhya.com/blog/2015/12/faster-data-manipulation-7-packages/
+[Do Faster Data Manipulation using These 7 R Packages](https://www.analyticsvidhya.com/blog/2015/12/faster-data-manipulation-7-packages/)
 
-https://rollingyours.wordpress.com/2016/06/29/express-intro-to-dplyr/
+[Express Intro to dplyr](https://rollingyours.wordpress.com/2016/06/29/express-intro-to-dplyr/)
 
-https://rollingyours.wordpress.com/2016/07/07/express-dplyr-part-ii/
+[Express dplyr Part II](https://rollingyours.wordpress.com/2016/07/07/express-dplyr-part-ii/)
 
 
 ## Tutorials
@@ -288,7 +288,7 @@ https://will-stanton.com/2015/03/08/machine-learning-with-r-an-irresponsibly-fas
 https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 
-## Great Resources
+## Helpful Resources
 
 [Chris Albon](https://chrisalbon.com/)
 
@@ -320,6 +320,9 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 [Statistical tools for high-throughput data analysis](http://www.sthda.com/english/)
 
+[Rolling Your Rs](https://rollingyours.wordpress.com/)
+
+[Nice R Code](https://nicercode.github.io/)
 
 
 ## Cheat Sheets
@@ -349,10 +352,6 @@ https://livebook.datascienceheroes.com/
 
 [Data Leakage in Machine Learning](https://machinelearningmastery.com/data-leakage-machine-learning/]
 
-
-## Data Cleaning
-
-[How to tackle common data cleaning issues in R](https://www.kdnuggets.com/2018/05/packt-tackle-common-data-cleaning-issues-r.html)
 
 
 
@@ -428,14 +427,23 @@ https://github.com/tyiannak/pyAudioAnalysis
 
 ## Data cleaning
 
-https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf
+[Introduciton to data cleaning with R](https://cran.r-project.org/doc/contrib/de_Jonge+van_der_Loo-Introduction_to_data_cleaning_with_R.pdf)
 
-http://lineardata.net/the-ultimate-guide-to-cleaning-data-in-r/
+[Ultimate guide to cleaning data in R](http://lineardata.net/the-ultimate-guide-to-cleaning-data-in-r/)
 
-http://www.markvanderloo.eu/files/statistics/data-cleaning-satRdays-budapest.pdf
+[Data cleaning with R](http://www.markvanderloo.eu/files/statistics/data-cleaning-satRdays-budapest.pdf)
+
+[How to tackle common data cleaning issues in R](https://www.kdnuggets.com/2018/05/packt-tackle-common-data-cleaning-issues-r.html)
 
 
 
 ## Projects
 
 http://agilemanifesto.org/
+
+[Designing Projects](https://nicercode.github.io/blog/2013-04-05-projects/)
+
+[Organizing the project directory](https://nicercode.github.io/blog/2013-05-17-organising-my-project/)
+
+
+
