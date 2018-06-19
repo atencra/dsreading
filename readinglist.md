@@ -96,6 +96,8 @@ https://freakonometrics.hypotheses.org/19835
 [5 Fantastic Practical Machine Learning Resources](https://www.kdnuggets.com/2018/02/5-fantastic-practical-machine-learning-resources.html)
 
 
+
+
 ## Explaining Machine Learning Results
 
 [NEW R package that makes XGBoost interpretable](https://medium.com/applied-data-science/new-r-package-the-xgboost-explainer-51dd7d1aa211)
@@ -324,6 +326,7 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 [Nice R Code](https://nicercode.github.io/)
 
+[Machine Learning Mastery](https://machinelearningmastery.com/)
 
 ## Cheat Sheets
 
