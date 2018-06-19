@@ -23,7 +23,7 @@ A preliminary organization.
 
 [Feature Selection – Ten Powerful Methods with Complete Examples](https://www.machinelearningplus.com/machine-learning/feature-selection/)
 
-http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/
+[Statistical analysis made easy in Python with SciPy and pandas DataFrames](http://www.randalolson.com/2012/08/06/statistical-analysis-made-easy-in-python/)
 
 https://github.com/pandas-profiling/pandas-profiling
 
