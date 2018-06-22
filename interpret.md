@@ -1,6 +1,6 @@
 # Interpreting Machine Learning
 
-[Ideas on interpreting machine learning])https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
+[Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
 
 [Visualizing ML models with LIME](http://uc-r.github.io/lime)
 
