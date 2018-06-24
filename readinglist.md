@@ -328,6 +328,9 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 [Machine Learning Mastery](https://machinelearningmastery.com/)
 
+[Machine Learning Plus](https://www.machinelearningplus.com/)
+
+
 ## Cheat Sheets
 
 http://www.datasciencefree.com/cheatsheets.html
@@ -449,5 +452,4 @@ http://agilemanifesto.org/
 
 [Organizing the project directory](https://nicercode.github.io/blog/2013-05-17-organising-my-project/)
 
-
-
+[knitr HTML Template | Example html Document](http://biostat.mc.vanderbilt.edu/wiki/Main/KnitrHtmlTemplate)
