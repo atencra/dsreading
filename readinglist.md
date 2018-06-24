@@ -355,6 +355,7 @@ https://livebook.datascienceheroes.com/
 
 [Data Leakage in Machine Learning](https://machinelearningmastery.com/data-leakage-machine-learning/]
 
+[Python Cheat Sheet for Data Science](https://elitedatascience.com/python-cheat-sheet)
 
 
 
