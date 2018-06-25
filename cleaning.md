@@ -9,4 +9,6 @@
 [Introduction to dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/dplyr.html)
 
 
-[DATA MANIPULATION WITH DPLYR (WITH 50 EXAMPLES)](https://www.listendata.com/2016/08/dplyr-tutorial.html)
+[Data manipulation with dplyr (with 50 examples)](https://www.listendata.com/2016/08/dplyr-tutorial.html)
+
+[Handling Strings with R](http://www.gastonsanchez.com/r4strings/)
