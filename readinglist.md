@@ -367,7 +367,9 @@ https://www.markdownguide.org/cheat-sheet
 
 ## Data Science
 
-https://www.kaggle.com/learn/overview
+[Hands-on Data Science Education](https://www.kaggle.com/learn/overview)
+
+[Kaggle kernel awards winners](https://www.kaggle.com/about/datasets-awards/kernels)
 
 http://blog.datadive.net/
 
