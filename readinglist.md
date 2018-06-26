@@ -264,6 +264,10 @@ https://datascienceplus.com/taking-the-baseline-measurement-into-account-constra
 
 [Plotting background data for groups in ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
 
+[ggplot2: Arranging multiple grobs on a page](https://cran.r-project.org/web/packages/gridExtra/vignettes/arrangeGrob.html)
+
+[ggplot2: Laying out multiple plots on a page](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html)
+
 
 ## Jupyter Notebook
 
