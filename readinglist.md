@@ -121,10 +121,18 @@ https://freakonometrics.hypotheses.org/19835
 
 ## Class imbalance
 
+[Learning from Imbalanced Classes](https://www.svds.com/learning-imbalanced-classes/)
+
+[A survey of predictive modeling under imbalanced distributions](https://arxiv.org/pdf/1505.01658.pdf)
+
 http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier-performance/
 
 
 ## Model Evaluation
+
+[The Basics of Classifier Evaluation: Part 1](http://www.svds.com/the-basics-of-classifier-evaluation-part-1/)
+
+[The Basics of Classifier Evaluation: Part 2](http://www.svds.com/classifiers2/)
 
 [Cross-validation for predictive analytics using R](http://www.milanor.net/blog/cross-validation-for-predictive-analytics-using-r/)
 
@@ -292,6 +300,8 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 ## Helpful Resources
 
+[UC Business Analytics R Programming Guide](http://uc-r.github.io/)
+
 [Chris Albon](https://chrisalbon.com/)
 
 [Data Science Made Simple](http://www.datasciencemadesimple.com/)
@@ -329,6 +339,7 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 [Machine Learning Mastery](https://machinelearningmastery.com/)
 
 [Machine Learning Plus](https://www.machinelearningplus.com/)
+
 
 
 ## Cheat Sheets
