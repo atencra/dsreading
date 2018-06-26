@@ -11,7 +11,7 @@
 
 [Top 90 Most Popular SQL Interview Questions and Answers](https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/)
 
-[https://www.programmerinterview.com/index.php/database-sql/introduction/](https://www.programmerinterview.com/index.php/database-sql/introduction/)
+[Database/SQL Interview Questions](https://www.programmerinterview.com/index.php/database-sql/introduction/)
 
 
 
