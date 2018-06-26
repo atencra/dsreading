@@ -1,9 +1,21 @@
 # Study Questions
 
+
+## SQL
+
 [Top 50 SQL Interview Questions & Answers	](https://career.guru99.com/top-50-sql-question-answers/)
 
 [SQL Interview Questions](https://www.geeksforgeeks.org/sql-interview-questions/)
 
+[Top 65 SQL Interview Questions You Must Prepare In 2018](https://www.edureka.co/blog/interview-questions/sql-interview-questions)
+
+[Top 90 Most Popular SQL Interview Questions and Answers](https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/)
+
+[https://www.programmerinterview.com/index.php/database-sql/introduction/](https://www.programmerinterview.com/index.php/database-sql/introduction/)
+
+
+
+## Python
 
 [Top 50 Python Interview Questions You Must Prepare In 2018](https://www.edureka.co/blog/interview-questions/python-interview-questions/)
 
@@ -15,18 +27,10 @@
 
 [10 Python Interview Questions for freshers](https://medium.com/@onlineinerview/10-python-interview-questions-for-freshers-c8b1027bf98b)
 
-
-[Top 65 SQL Interview Questions You Must Prepare In 2018](https://www.edureka.co/blog/interview-questions/sql-interview-questions)
-
-
 [Top 40 Python Interview Questions & Answers](https://career.guru99.com/top-25-python-interview-questions/)
 
 [11 Essential Python Interview Questions](https://www.toptal.com/python/interview-questions)
 
-[Top 90 Most Popular SQL Interview Questions and Answers](https://www.softwaretestinghelp.com/50-popular-sql-interview-questions-for-testers/)
-
 [Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
-
-[https://www.programmerinterview.com/index.php/database-sql/introduction/](https://www.programmerinterview.com/index.php/database-sql/introduction/)
 
 [Netflix Data Science Interview Questions: Acing the AI Interview](https://www.kdnuggets.com/2018/06/netflix-data-science-interview-questions-acing-the-ai-interview.html)
