@@ -1,6 +1,11 @@
 
 # SQL
 
+[Learn the Three Crucial Steps to Writing Better SQL](https://www.essentialsql.com/how-to-write-queries-introduction-to-three-simple-steps-to-writing-sql/)
+
+[50 SQL Query Questions And Answers For Practice](http://www.techbeamers.com/sql-query-questions-answers-for-practice/)
+
+[Top SQL Interview Questions One Should Know Beforehand](http://www.techbeamers.com/sql-interview-questions-answers-experienced/)
 
 [7 Steps to Mastering SQL for Data Science](https://www.kdnuggets.com/2016/06/seven-steps-mastering-sql-data-science.html)
 
