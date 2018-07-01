@@ -21,7 +21,7 @@ http://www.complexsql.com/complex-sql-queries-examples-with-answers/
 http://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql
 
 
-[Tough SQL Queries - Part 1](https://sqlnplsqlguru.blogspot.com/2014/04/tough-sql-queries-part-1.html)
+[Tough SQL Queries - Part 1](https://sqlnplsqlguru.blogspot.com/2014/04/238-tough-sql-queries.html)
 
 [Tough SQL Queries - Part 2](https://sqlnplsqlguru.blogspot.com/2014/04/tough-sql-queries-part-2.html)
 
