@@ -56,6 +56,7 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
 [Machine Learning Walk Through Part 2](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
 
+[Trevor Stephens - Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
 
 ## Learning Machine Learning
 
@@ -143,6 +144,8 @@ http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier
 [ROCs in two lines of code](http://blog.revolutionanalytics.com/2016/08/roc-curves-in-two-lines-of-code.html)
 
 [Calculating ROC Area Under the Curve (AUC)](http://blog.revolutionanalytics.com/2016/11/calculating-auc.html)
+
+[How (dis)similar are my train and test data?](https://www.kdnuggets.com/2018/06/how-dissimilar-train-test-data.html)
 
 
 ## Neural Networks
