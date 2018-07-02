@@ -271,6 +271,10 @@ https://datascienceplus.com/taking-the-baseline-measurement-into-account-constra
 
 [ggplot2: Laying out multiple plots on a page](https://cran.r-project.org/web/packages/egg/vignettes/Ecosystem.html)
 
+[ggplot from ŷhat](http://ggplot.yhathq.com/)
+
+[ggplot for python](https://www.slideshare.net/Yhat/ggplot-for-python)
+
 
 ## Jupyter Notebook
 
