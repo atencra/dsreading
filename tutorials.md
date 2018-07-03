@@ -21,3 +21,5 @@
 [SVM classification example with performance measures using R caret](https://geekoverdose.wordpress.com/2014/07/25/svm-classification-example-with-performance-measures-using-r-caret/)
 
 [How and when: ridge regression with glmnet](https://drsimonj.svbtle.com/ridge-regression-with-glmnet)
+
+[Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
