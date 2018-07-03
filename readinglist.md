@@ -484,4 +484,9 @@ http://agilemanifesto.org/
 
 [Organizing the project directory](https://nicercode.github.io/blog/2013-05-17-organising-my-project/)
 
+[The "ten simple rules for reproducible computational research" are easy to reach for r users](http://blog.jom.link/ten_rules_reproductible_research.html)
+
 [knitr HTML Template | Example html Document](http://biostat.mc.vanderbilt.edu/wiki/Main/KnitrHtmlTemplate)
+
+[How to name files](https://speakerdeck.com/jennybc/how-to-name-files)
+
