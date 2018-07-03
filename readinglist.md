@@ -160,9 +160,11 @@ http://junma5.weebly.com/data-blog/build-your-own-neural-network-classifier-in-r
 
 http://junma5.weebly.com/data-blog/understanding-logistic-regression-from-scratch
 
-http://iamtrask.github.io/2015/07/12/basic-python-network/
+[A Neural Network in 11 lines of Python (Part 1)](http://iamtrask.github.io/2015/07/12/basic-python-network/)
 
-http://iamtrask.github.io/2015/07/27/python-network-part2/
+[A Neural Network in 13 lines of Python (Part 2 - Gradient Descent)](http://iamtrask.github.io/2015/07/27/python-network-part2/)
+
+[Hinton's Dropout in 3 Lines of Python](http://iamtrask.github.io/2015/07/28/dropout/)
 
 This book may be good. The previous blog articles were insightful:
 
