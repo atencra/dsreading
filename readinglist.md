@@ -482,6 +482,8 @@ http://agilemanifesto.org/
 
 [Designing Projects](https://nicercode.github.io/blog/2013-04-05-projects/)
 
+[File organization best practices](https://andrewbtran.github.io/NICAR/2018/workflow/docs/01-workflow_intro.html)
+
 [Organizing the project directory](https://nicercode.github.io/blog/2013-05-17-organising-my-project/)
 
 [The "ten simple rules for reproducible computational research" are easy to reach for r users](http://blog.jom.link/ten_rules_reproductible_research.html)
