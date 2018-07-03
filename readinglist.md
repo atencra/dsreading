@@ -96,6 +96,8 @@ https://freakonometrics.hypotheses.org/19835
 
 [5 Fantastic Practical Machine Learning Resources](https://www.kdnuggets.com/2018/02/5-fantastic-practical-machine-learning-resources.html)
 
+[A New Angle on L2 Regularization](https://thomas-tanay.github.io/post--L2-regularization/)
+
 
 
 
