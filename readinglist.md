@@ -60,6 +60,8 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
 ## Learning Machine Learning
 
+[Essentials of Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
+
 http://learnds.com/
 
 https://codesachin.wordpress.com/2016/03/06/a-small-introduction-to-boosting/
