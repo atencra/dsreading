@@ -11,6 +11,8 @@
 
 [IPython Cookbook, Second Edition (2018)](https://ipython-books.github.io/)
 
+[ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
+
 
 ## Single case studies
 
