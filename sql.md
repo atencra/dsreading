@@ -1,6 +1,8 @@
 
 # SQL
 
+[SQL Cheat Sheet](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html)
+
 [Practical skills of SQL language](http://www.sql-ex.com/)
 
 [Using multiple tables in a query](http://www.sql-ex.com/help/select5.php)
