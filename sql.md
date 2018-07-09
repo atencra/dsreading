@@ -57,7 +57,7 @@ http://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql
 
 [Practice SQL Queries with Solutions For Employee Table – Part 1](http://techhowdy.com/practice-sql-queries-solutions-employee-table-set-1/)
 
-
+[SQL Tutorial: How To Write Better Queries](https://www.datacamp.com/community/tutorials/sql-tutorial-query#gs.QQP_Fhg)
 
 [Example of complex SQL query to get as much data as possible from Database](https://dev.to/tyzia/example-of-complex-sql-query-to-get-as-much-data-as-possible-from-database-9he)
 
@@ -76,3 +76,11 @@ http://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql
 [Tough SQL Queries - Part 7](https://sqlnplsqlguru.blogspot.com/2014/04/tough-sql-queries-part-7.html)
 
 [Tough SQL Queries - Part 8](https://sqlnplsqlguru.blogspot.com/2014/04/tough-sql-queries-part-8.html)
+
+[Learn to write Subqueries](https://www.essentialsql.com/landing/subquerymagic/sqm-vsl1-v3/)
+
+[Common MySQL Queries](http://www.artfulsoftware.com/infotree/queries.php)
+
+##Python and SQL
+
+[Python SQLite3 Basics](https://nitratine.net/python-sqlite3-basics/)
