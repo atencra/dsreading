@@ -1,7 +1,7 @@
 
 # Tutorials
 
-## Extensive tutorials
+## Book length treatments
 
 [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos)
 
@@ -14,7 +14,7 @@
 [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
 
 
-## Single case studies
+## Tutorials and workshops 
 
 [A gentle introduction to Naïve Bayes classification using R](https://eight2late.wordpress.com/2015/11/06/a-gentle-introduction-to-naive-bayes-classification-using-r/)
 
@@ -27,3 +27,5 @@
 [How and when: ridge regression with glmnet](https://drsimonj.svbtle.com/ridge-regression-with-glmnet)
 
 [Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
+
+[Code for Workshop: Introduction to Machine Learning with R(https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
