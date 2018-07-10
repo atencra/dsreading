@@ -28,4 +28,4 @@
 
 [Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
 
-[Code for Workshop: Introduction to Machine Learning with R(https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
+[Code for Workshop: Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
