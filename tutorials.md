@@ -29,3 +29,9 @@
 [Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
 
 [Code for Workshop: Introduction to Machine Learning with R](https://shirinsplayground.netlify.com/2018/06/intro_to_ml_workshop_heidelberg/)
+
+[Are lego sets too pricey?](https://www.kaggle.com/jonathanbouchet/are-lego-sets-too-pricey/notebook)
+
+[RANDOM FOREST CLASSIFICATION OF MUSHROOMS](https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/)
+
+[Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
