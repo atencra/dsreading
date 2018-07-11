@@ -58,6 +58,7 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
 [Trevor Stephens - Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
 
+
 ## Learning Machine Learning
 
 [Essentials of Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
@@ -100,7 +101,11 @@ https://freakonometrics.hypotheses.org/19835
 
 [A New Angle on L2 Regularization](https://thomas-tanay.github.io/post--L2-regularization/)
 
+[How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 
+[A Gentle Introduction to Gradient Boosting](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
+
+[A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
 
 
 ## Explaining Machine Learning Results
