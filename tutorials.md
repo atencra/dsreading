@@ -13,6 +13,10 @@
 
 [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
 
+[Python Machine Learning book code repository](https://github.com/rasbt/python-machine-learning-book)
+
+[Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
+
 
 ## Tutorials and workshops 
 
@@ -37,3 +41,8 @@
 [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
 
 [Happiness 2017: Visualization and Prediction](https://www.kaggle.com/javadzabihi/happiness-2017-visualization-prediction/notebook)
+
+[IRIS DATASET AND XGBOOST SIMPLE TUTORIAL](http://ieva.rocks/2016/08/25/iris_dataset_and_xgboost_simple_tutorial/)
+
+
+[Grid search xgboost with scikit-learn](https://www.kaggle.com/tanitter/grid-search-xgboost-with-scikit-learn)
