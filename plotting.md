@@ -1,4 +1,4 @@
-#Plotting
+# Plotting
 
 [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
 
