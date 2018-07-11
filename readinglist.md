@@ -363,6 +363,7 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 [Machine Learning Plus](https://www.machinelearningplus.com/)
 
+[datascience+](https://datascienceplus.com/)
 
 
 ## Cheat Sheets
