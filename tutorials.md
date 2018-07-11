@@ -35,3 +35,5 @@
 [RANDOM FOREST CLASSIFICATION OF MUSHROOMS](https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/)
 
 [Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
+
+[Happiness 2017: Visualization and Prediction](https://www.kaggle.com/javadzabihi/happiness-2017-visualization-prediction/notebook)
