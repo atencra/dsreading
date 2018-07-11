@@ -506,3 +506,5 @@ http://agilemanifesto.org/
 
 [How to name files](https://speakerdeck.com/jennybc/how-to-name-files)
 
+[What is the CRISP-DM methodology?](https://www.sv-europe.com/crisp-dm-methodology/)
+
