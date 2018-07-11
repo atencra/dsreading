@@ -17,10 +17,13 @@
 
 [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
-[Python Machine Learning Tutorial](https://www.python-course.eu/machine_learning.php)
 
 
 ## Tutorials and workshops 
+
+[Python Machine Learning Tutorial](https://www.python-course.eu/machine_learning.php)
+
+[Tutorials on Advanced Stats and Machine Learning With R](http://r-statistics.co/)
 
 [A gentle introduction to Naïve Bayes classification using R](https://eight2late.wordpress.com/2015/11/06/a-gentle-introduction-to-naive-bayes-classification-using-r/)
 
