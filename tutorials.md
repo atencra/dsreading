@@ -17,6 +17,8 @@
 
 [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
+[Python Machine Learning Tutorial](https://www.python-course.eu/machine_learning.php)
+
 
 ## Tutorials and workshops 
 
