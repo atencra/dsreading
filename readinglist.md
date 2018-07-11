@@ -218,6 +218,8 @@ http://alexhwilliams.info/itsneuronalblog/2015/10/01/clustering2/
 
 http://alexhwilliams.info/itsneuronalblog/2015/11/18/clustering-is-easy/
 
+[The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
+
 
 ## Dimension Reduction
 
