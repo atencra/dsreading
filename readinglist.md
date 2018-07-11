@@ -194,6 +194,10 @@ https://github.com/jjallaire/deep-learning-with-r-notebooks
 
 https://rubikscode.net/2018/02/19/artificial-neural-networks-series/
 
+[Tensorflow neural network playground](https://playground.tensorflow.org)
+
+[Stephen Welch - Neural Networks Demystified](https://github.com/stephencwelch/Neural-Networks-Demystified)
+
 
 ## Clustering
 
