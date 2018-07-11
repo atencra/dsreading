@@ -521,6 +521,8 @@ http://agilemanifesto.org/
 
 [The "ten simple rules for reproducible computational research" are easy to reach for r users](http://blog.jom.link/ten_rules_reproductible_research.html)
 
+[Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+
 [knitr HTML Template | Example html Document](http://biostat.mc.vanderbilt.edu/wiki/Main/KnitrHtmlTemplate)
 
 [How to name files](https://speakerdeck.com/jennybc/how-to-name-files)
