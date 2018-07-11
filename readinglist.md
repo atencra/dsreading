@@ -59,6 +59,8 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 [Trevor Stephens - Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
 
 
+
+
 ## Learning Machine Learning
 
 [Essentials of Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
@@ -106,6 +108,15 @@ https://freakonometrics.hypotheses.org/19835
 [A Gentle Introduction to Gradient Boosting](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
 
 [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
+
+
+[ A gentle introduction to support vector machines using R](https://eight2late.wordpress.com/2017/02/07/a-gentle-introduction-to-support-vector-machines-using-r/)
+
+[An intuitive introduction to support vector machines using R – Part 1](https://eight2late.wordpress.com/2018/06/06/an-intuitive-introduction-to-support-vector-machines-using-r-part-1/)
+
+## Feature Engineering
+
+[Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
 
 
 ## Explaining Machine Learning Results
@@ -156,6 +167,10 @@ http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier
 
 [How (dis)similar are my train and test data?](https://www.kdnuggets.com/2018/06/how-dissimilar-train-test-data.html)
 
+[Choosing the Right Metric for Evaluating Machine Learning Models — Part 1](https://medium.com/usf-msds/choosing-the-right-metric-for-machine-learning-models-part-1-a99d7d7414e4)
+
+[Choosing the Right Metric for Evaluating Machine Learning Models — Part 2](https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428)
+
 
 ## Neural Networks
 
@@ -202,6 +217,8 @@ https://rubikscode.net/2018/02/19/artificial-neural-networks-series/
 [Tensorflow neural network playground](https://playground.tensorflow.org)
 
 [Stephen Welch - Neural Networks Demystified](https://github.com/stephencwelch/Neural-Networks-Demystified)
+
+[A Beginner’s Guide to Neural Networks with R!](https://www.kdnuggets.com/2016/08/begineers-guide-neural-networks-r.html)
 
 
 ## Clustering
@@ -509,4 +526,8 @@ http://agilemanifesto.org/
 [How to name files](https://speakerdeck.com/jennybc/how-to-name-files)
 
 [What is the CRISP-DM methodology?](https://www.sv-europe.com/crisp-dm-methodology/)
+
+[Frameworks for Approaching the Machine Learning Process](https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html)
+
+[A Beginner's Guide to the Data Science Pipeline](https://www.linkedin.com/pulse/life-data-science-osemn-randy-lao/)
 
