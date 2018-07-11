@@ -4,3 +4,5 @@
 
 
 [Taking the baseline measurement into account: constrained LDA in R](https://datascienceplus.com/taking-the-baseline-measurement-into-account-constrained-lda-in-r/)
+
+[Happiness 2017: Visualization and Prediction](https://www.kaggle.com/javadzabihi/happiness-2017-visualization-prediction/notebook)
