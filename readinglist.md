@@ -393,6 +393,8 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 [datascience+](https://datascienceplus.com/)
 
+[Shirin's Playground](https://shirinsplayground.netlify.com/)
+
 
 ## Cheat Sheets
 
