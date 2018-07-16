@@ -33,6 +33,12 @@ A preliminary organization.
 
 [Express dplyr Part II](https://rollingyours.wordpress.com/2016/07/07/express-dplyr-part-ii/)
 
+[Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
+
+[Managing Machine Learning Workflows with Scikit-learn Pipelines Part 2: Integrating Grid Search](https://www.kdnuggets.com/2018/01/managing-machine-learning-workflows-scikit-learn-pipelines-part-2.html)
+
+[Managing Machine Learning Workflows with Scikit-learn Pipelines Part 3: Multiple Models, Pipelines, and Grid Searches](https://www.kdnuggets.com/2018/01/managing-machine-learning-workflows-scikit-learn-pipelines-part-3.html)
+
 
 ## Tutorials
 
@@ -108,7 +114,6 @@ https://freakonometrics.hypotheses.org/19835
 [A Gentle Introduction to Gradient Boosting](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf)
 
 [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
-
 
 [ A gentle introduction to support vector machines using R](https://eight2late.wordpress.com/2017/02/07/a-gentle-introduction-to-support-vector-machines-using-r/)
 
@@ -332,6 +337,9 @@ http://nbviewer.jupyter.org/github/brandomr/document_cluster/blob/master/cluster
 [What is the best project structure for a python application?](https://stackoverflow.com/questions/193161/what-is-the-best-project-structure-for-a-python-application)
 
 [Cookie Cutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+
+[The Keras 4 Step Workflow](https://www.kdnuggets.com/2018/06/keras-4-step-workflow.html)
+
 
 ## Case studies
 
