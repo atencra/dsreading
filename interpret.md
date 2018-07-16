@@ -23,3 +23,4 @@
 [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 
 
+[Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://www.immuta.com/beyond/)
