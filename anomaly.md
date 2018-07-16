@@ -23,3 +23,7 @@
 [One-class classification with SVM in R](https://stackoverflow.com/questions/27375517/one-class-classification-with-svm-in-r)
 
 [Outlier Detection with One-Class SVMs: An Application to Melanoma Prognosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3041295/)
+
+[Anomaly Detection in R](http://r-posts.com/anomaly-detection-in-r/)
+
+[R code for the SVM (login-type) detector by Kevin Killourhy)](http://www.cs.cmu.edu/~keystroke/ksk-thesis/r/classifier-svm.R)
