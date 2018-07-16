@@ -152,6 +152,11 @@ http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier
 
 [Using Random Forest to Learn Imbalanced Data](http://statistics.berkeley.edu/sites/default/files/tech-reports/666.pdf)
 
+(https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
+
+
+
+(SMOTE explained for noobs - Synthetic Minority Over-sampling TEchnique line by line)[http://rikunert.com/SMOTE_explained]
 
 ## Model Evaluation
 
@@ -468,6 +473,8 @@ https://github.com/arogozhnikov/python3_with_pleasure/blob/master/README.md
 https://www.machinelearningplus.com/python/101-numpy-exercises-python/
 
 ## R
+
+[R Package Documentation](https://rdrr.io/)
 
 http://www.burns-stat.com/documents/public-domain-code/
 
