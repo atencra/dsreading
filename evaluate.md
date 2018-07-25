@@ -14,3 +14,7 @@
 [Why every statistician should know about cross-validation](https://robjhyndman.com/hyndsight/crossvalidation/)
 
 [A survey of cross-validation procedures for model selection](https://projecteuclid.org/euclid.ssu/1268143839)
+
+[Machine Learning Results in R: one plot to rule them all! (Part 1 – Classification Models)](https://datascienceplus.com/machine-learning-results-one-plot-to-rule-them-all/)
+
+[Machine Learning Results in R: one plot to rule them all! (Part 2 – Regression Models)](https://datascienceplus.com/machine-learning-results-in-r-one-plot-to-rule-them-all-part-2-regression-models/)
