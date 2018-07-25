@@ -8,7 +8,6 @@
 
 [Probabilistic interpretation of AUC](http://www.alexejgossmann.com/auc/)
 
-
 [The Probabilistic Interpretation of AUC](https://madrury.github.io/jekyll/update/statistics/2017/06/21/auc-proof.html)
 
 [Why every statistician should know about cross-validation](https://robjhyndman.com/hyndsight/crossvalidation/)
