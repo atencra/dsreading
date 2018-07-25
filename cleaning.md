@@ -20,7 +20,7 @@
 
 [Clean Your Data in Seconds with This R Function](https://datascienceplus.com/clean-your-data-in-seconds-with-this-r-function/)
 
-[Data Science: A Kaggle Walkthrough – Introduction](http://brettromero.com/data-science-a-kaggle-walkthrough-introduction/)
+[Data Science: A Kaggle Walkthrough – Part 1: Introduction](http://brettromero.com/data-science-a-kaggle-walkthrough-introduction/)
 
 [Data Science: A Kaggle Walkthrough – Part 2: Understanding the Data](http://brettromero.com/data-science-a-kaggle-walkthrough-understanding-the-data/)
 
