@@ -187,6 +187,8 @@ http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier
 
 ## Neural Networks
 
+[fast.ai Deep Learning for Coders](http://course.fast.ai/index.html)
+
 https://github.com/ilkarman/DemoNeuralNet
 
 https://datasciencelab.wordpress.com/2014/01/10/machine-learning-classics-the-perceptron/
