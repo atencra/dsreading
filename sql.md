@@ -21,7 +21,7 @@
 
 [SQLCourse2.com!](http://www.sqlcourse2.com/)
 
-[Where can I find answers to SQLZoo exercises?]https://www.quora.com/Where-can-I-find-answers-to-SQLZoo-exercises)
+[Where can I find answers to SQLZoo exercises?](https://www.quora.com/Where-can-I-find-answers-to-SQLZoo-exercises)
 
 [How do I make complex SQL queries easier to write?](https://softwareengineering.stackexchange.com/questions/144602/how-do-i-make-complex-sql-queries-easier-to-write)
 
@@ -84,3 +84,13 @@ http://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql
 ##Python and SQL
 
 [Python SQLite3 Basics](https://nitratine.net/python-sqlite3-basics/)
+
+[What are some good resources to practice SQL for a data science interview?](https://www.quora.com/What-are-some-good-resources-to-practice-SQL-for-a-data-science-interview)
+
+[5 Books That Will Grow Your SQL Skills](https://academy.vertabelo.com/blog/5-books-will-grow-sql-skills/)
+
+[5 Tips for Managing Long SQL Queries](https://academy.vertabelo.com/blog/5-tips-managing-long-sql-queries/)
+
+
+
+
