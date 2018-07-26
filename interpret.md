@@ -24,3 +24,5 @@
 
 
 [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://www.immuta.com/beyond/)
+
+[Understanding lime](https://cran.r-project.org/web/packages/lime/vignettes/Understanding_lime.html)
