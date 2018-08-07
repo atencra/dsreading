@@ -1,6 +1,6 @@
 # Plotting
 
-[https://policyviz.com/2018/08/07/dataviz-cheatsheet/](DataViz Cheatsheet)
+[DataViz Cheatsheet](https://policyviz.com/2018/08/07/dataviz-cheatsheet/)
 
 [Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
 
