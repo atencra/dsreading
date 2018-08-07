@@ -1,7 +1,8 @@
 # Plotting
 
-[Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
+[https://policyviz.com/2018/08/07/dataviz-cheatsheet/](DataViz Cheatsheet)
 
+[Plotting background data for groups with ggplot2](https://drsimonj.svbtle.com/plotting-background-data-for-groups-with-ggplot2)
 
 [Taking the baseline measurement into account: constrained LDA in R](https://datascienceplus.com/taking-the-baseline-measurement-into-account-constrained-lda-in-r/)
 
@@ -10,7 +11,6 @@
 [Fundamentals of Data Visualization](http://serialmentor.com/dataviz/)
 
 [Histograms and Density Plots](https://homepage.divms.uiowa.edu/~luke/classes/STAT4580/histdens.html#density-plots)
-
 
 [Top 50 ggplot2 Visualizations - The Master List (With Full R Code)](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 
