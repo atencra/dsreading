@@ -27,7 +27,7 @@
 
 [Feature Selection and Data Visualization](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
 
-[Machine Learning Tutorial for Beginners]([Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/)
+[Machine Learning Tutorial for Beginners](Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/)
 
 [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
 
