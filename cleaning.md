@@ -31,3 +31,7 @@
 [Data Science: A Kaggle Walkthrough – Part 5: Adding New Data](http://brettromero.com/data-science-kaggle-walkthrough-adding-new-data/)
 
 [Data Science: A Kaggle Walkthrough – Part 6: Creating a Model](http://brettromero.com/data-science-kaggle-walkthrough-creating-model/)
+
+[Similarity encoding for learning with dirty categorical variables](https://hal.inria.fr/hal-01806175)
+
+[dirty_cat: machine learning on dirty categories](https://dirty-cat.github.io/stable/)
