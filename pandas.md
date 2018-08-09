@@ -1,5 +1,7 @@
 # Python Pandas
 
+[Quick dive into Pandas for Data Science](https://towardsdatascience.com/quick-dive-into-pandas-for-data-science-cc1c1a80d9c4)
+
 [Python Pandas read_csv – Load Data from CSV Files](https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/)
 
 [The Pandas DataFrame – loading, editing, and viewing data in Python](https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/)
