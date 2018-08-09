@@ -14,3 +14,8 @@
 [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/)
 
 [Ensemble Methods: Elegant Techniques to Produce Improved Machine Learning Results](https://www.toptal.com/machine-learning/ensemble-methods-machine-learning)
+
+[Stacking Models for Improved Predictions](https://burakhimmetoglu.com/2016/12/01/stacking-models-for-improved-predictions/)
+
+[Code for Stacking Models for Improved Predictions](https://github.com/bhimmetoglu/kaggle_101/tree/master/HousePrices)
+
