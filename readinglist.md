@@ -121,9 +121,11 @@ https://freakonometrics.hypotheses.org/19835
 
 [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
 
-[ A gentle introduction to support vector machines using R](https://eight2late.wordpress.com/2017/02/07/a-gentle-introduction-to-support-vector-machines-using-r/)
+[A gentle introduction to support vector machines using R](https://eight2late.wordpress.com/2017/02/07/a-gentle-introduction-to-support-vector-machines-using-r/)
 
 [An intuitive introduction to support vector machines using R – Part 1](https://eight2late.wordpress.com/2018/06/06/an-intuitive-introduction-to-support-vector-machines-using-r-part-1/)
+
+[How decision trees work](https://brohrer.github.io/how_decision_trees_work.html)
 
 
 ## Feature Engineering
@@ -372,6 +374,8 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 [datascience+](https://datascienceplus.com/)
 
 [Shirin's Playground](https://shirinsplayground.netlify.com/)
+
+[Data Science and Robots: Brandon Rohrer](https://brohrer.github.io/blog.html)
 
 
 ## Cheat Sheets
