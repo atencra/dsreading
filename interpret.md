@@ -31,3 +31,5 @@
 [Create Interpretable Machine Learning plots and analyse them in a interactive Shiny dashboard](https://github.com/compstat-lmu/imlplots)
 
 [A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
+
+[Understanding Titanic Dataset with H2O’s AutoML, DALEX, and lares library](https://datascienceplus.com/understanding-titanic-dataset-with-h2os-automl-dalex-and-lares-library/)
