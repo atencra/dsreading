@@ -29,6 +29,8 @@
 
 [Machine Learning Tutorial for Beginners]([Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/)
 
+[Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
+
 [Tutorials on Advanced Stats and Machine Learning With R](http://r-statistics.co/)
 
 [A gentle introduction to Naïve Bayes classification using R](https://eight2late.wordpress.com/2015/11/06/a-gentle-introduction-to-naive-bayes-classification-using-r/)
