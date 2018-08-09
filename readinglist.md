@@ -75,6 +75,8 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
+[Model-based Machine Learning](http://www.mbmlbook.com)
+
 [Essentials of Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 
 http://learnds.com/
