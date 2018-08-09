@@ -131,6 +131,8 @@ https://freakonometrics.hypotheses.org/19835
 
 [How decision trees work](https://brohrer.github.io/how_decision_trees_work.html)
 
+[XGBoost Documentation](https://xgboost.readthedocs.io)
+
 
 ## Feature Engineering
 
