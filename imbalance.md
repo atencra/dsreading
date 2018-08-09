@@ -13,3 +13,5 @@ http://www.win-vector.com/blog/2015/02/does-balancing-classes-improve-classifier
 [Tactics to combat imbalanced classes](https://machinelearningmastery.com/tactics-to-combat-imbalanced-classes-in-your-machine-learning-dataset/)
 
 [SMOTE explained for noobs - Synthetic Minority Over-sampling TEchnique line by line](http://rikunert.com/SMOTE_explained)
+
+[The Right Way to Oversample in Predictive Modeling](https://beckernick.github.io/oversampling-modeling/)
