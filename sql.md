@@ -7,7 +7,15 @@
 
 [SQL Formatting standards – joins, lists, structure, operations](https://solutioncenter.apexsql.com/sql-formatting-standards-joins-lists-structure-operations/)
 
+[SQL: What You Need to Know](https://www.springboard.com/blog/sql-what-you-need-to-know/)
+
+[7 Steps to Mastering SQL for Data Science](https://www.kdnuggets.com/2016/06/seven-steps-mastering-sql-data-science.html)
+
+[SQL Tutorial: How To Write Better Queries](https://www.datacamp.com/community/tutorials/sql-tutorial-query)
+
 [SQL Cheat Sheet](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html)
+
+[Common MySQL Queries](http://www.artfulsoftware.com/infotree/queries.php)
 
 [Practical skills of SQL language](http://www.sql-ex.com/)
 
@@ -96,7 +104,6 @@ http://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql
 [5 Books That Will Grow Your SQL Skills](https://academy.vertabelo.com/blog/5-books-will-grow-sql-skills/)
 
 [5 Tips for Managing Long SQL Queries](https://academy.vertabelo.com/blog/5-tips-managing-long-sql-queries/)
-
 
 
 
