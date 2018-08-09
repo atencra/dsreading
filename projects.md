@@ -25,3 +25,5 @@
 [Frameworks for Approaching the Machine Learning Process](https://www.kdnuggets.com/2018/05/general-approaches-machine-learning-process.html)
 
 [A Beginner's Guide to the Data Science Pipeline](https://www.linkedin.com/pulse/life-data-science-osemn-randy-lao/)
+
+[What is the CRISP-DM methodology?](https://www.sv-europe.com/crisp-dm-methodology/)
