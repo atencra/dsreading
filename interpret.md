@@ -33,3 +33,7 @@
 [A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
 
 [Understanding Titanic Dataset with H2O’s AutoML, DALEX, and lares library](https://datascienceplus.com/understanding-titanic-dataset-with-h2os-automl-dalex-and-lares-library/)
+
+[Interpreting machine learning models with the lime package for R](http://blog.revolutionanalytics.com/2018/06/lime-package.html)
+
+[Interpreting Machine Learning Models with the iml Package](http://uc-r.github.io/iml-pkg)
