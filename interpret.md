@@ -29,3 +29,5 @@
 [Understanding lime](https://cran.r-project.org/web/packages/lime/vignettes/Understanding_lime.html)
 
 [Create Interpretable Machine Learning plots and analyse them in a interactive Shiny dashboard](https://github.com/compstat-lmu/imlplots)
+
+[A unified approach to explain the output of any machine learning model.](https://github.com/slundberg/shap)
