@@ -287,6 +287,8 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 ## Helpful Resources
 
+[Favorite Data Science Blogs, Podcasts and Newsletters](http://businessoverbroadway.com/favorite-data-science-and-machine-learning-blogs-podcasts-and-newsletters)
+
 [UC Business Analytics R Programming Guide](http://uc-r.github.io/)
 
 [Chris Albon](https://chrisalbon.com/)
