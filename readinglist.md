@@ -73,6 +73,8 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
 [Foundations of Machine Learning](https://bloomberg.github.io/foml)
 
+[Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
 [Essentials of Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 
 http://learnds.com/
@@ -123,11 +125,13 @@ https://freakonometrics.hypotheses.org/19835
 
 [An intuitive introduction to support vector machines using R – Part 1](https://eight2late.wordpress.com/2018/06/06/an-intuitive-introduction-to-support-vector-machines-using-r-part-1/)
 
+
 ## Feature Engineering
 
 [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
 
 [A Feature Selection Tool for Machine Learning in Python](https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0)
+
 
 ## Explaining Machine Learning Results
 
@@ -401,25 +405,10 @@ https://livebook.datascienceheroes.com/
 
 [Python Cheat Sheet for Data Science](https://elitedatascience.com/python-cheat-sheet)
 
+[An Introduction to Statistical and Data Sciences via R](https://moderndive.com/index.html)
 
 
 ## SQL
-http://www.smart-soft.co.uk/Oracle/advanced-sql-tutorial.htm#.WvyOtaSUuUk
-
-http://lsirwww.epfl.ch/courses/iis/2006ss/
-
-http://www.datacarpentry.org/python-ecology-lesson/08-working-with-sql/
-
-http://www.dofactory.com/sql/tutorial
-
-https://ocw.mit.edu/courses/urban-studies-and-planning/11-521-spatial-database-management-and-advanced-geographic-information-systems-spring-2003/lecture-notes/lect4.pdf
-
-https://stackoverflow.com/questions/2054130/what-is-advanced-sql
-
-http://www.complexsql.com/complex-sql-queries-examples-with-answers/
-
-http://www.bullraider.com/database/sql-tutorial/7-complex-queries-in-sql
-
 
 ## Python
 
