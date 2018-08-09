@@ -4,6 +4,8 @@
 
 [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
 
+[iml: interpretable machine learning R package](https://github.com/christophM/iml)
+
 [Visualizing ML models with LIME](http://uc-r.github.io/lime)
 
 [Human Interpretable Machine Learning (Part 1) — The Need and Importance of Model Interpretation](https://towardsdatascience.com/human-interpretable-machine-learning-part-1-the-need-and-importance-of-model-interpretation-2ed758f5f476)
@@ -22,7 +24,8 @@
 
 [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 
-
 [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://www.immuta.com/beyond/)
 
 [Understanding lime](https://cran.r-project.org/web/packages/lime/vignettes/Understanding_lime.html)
+
+[Create Interpretable Machine Learning plots and analyse them in a interactive Shiny dashboard](https://github.com/compstat-lmu/imlplots)
