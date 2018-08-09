@@ -47,3 +47,10 @@ https://datascienceplus.com/taking-the-baseline-measurement-into-account-constra
 [15 Questions All R Users Have About Plots](https://www.datacamp.com/community/tutorials/15-questions-about-r-plots)
 
 [12 Extensions to ggplot2 for More Powerful R Visualizations](https://blog.modeanalytics.com/r-ggplot-extension-packages/)
+
+[Stagraph – a general purpose R GUI, for data import, wrangling, and visualization](https://www.kdnuggets.com/2018/06/stagraph-r-gui.html)
+
+[Stagraph](http://stagraph.com/)
+
+[Rattle: A Graphical User Interface for Data Mining using R](https://rattle.togaware.com/)
+
