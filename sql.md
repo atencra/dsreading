@@ -1,6 +1,12 @@
 
 # SQL
 
+[SQL query basics – How to improve readability by formatting commas, spacing and alignment](https://solutioncenter.apexsql.com/sql-query-basics-how-to-improve-readability-by-formatting-commas-spacing-and-aligning/)
+
+[SQL Formatting standards – Capitalization, Indentation, Comments, Parenthesis](https://solutioncenter.apexsql.com/sql-formatting-standards-capitalization-indentation-comments-parenthesis/)
+
+[SQL Formatting standards – joins, lists, structure, operations](https://solutioncenter.apexsql.com/sql-formatting-standards-joins-lists-structure-operations/)
+
 [SQL Cheat Sheet](https://www.kdnuggets.com/2018/07/sql-cheat-sheet.html)
 
 [Practical skills of SQL language](http://www.sql-ex.com/)
