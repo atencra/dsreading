@@ -25,6 +25,8 @@
 
 [Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/)
 
+[Feature Selection and Data Visualization](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
+
 [Machine Learning Tutorial for Beginners]([Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/)
 
 [Tutorials on Advanced Stats and Machine Learning With R](http://r-statistics.co/)
