@@ -45,3 +45,5 @@ https://datascienceplus.com/taking-the-baseline-measurement-into-account-constra
 [ggplot for python](https://www.slideshare.net/Yhat/ggplot-for-python)
 
 [15 Questions All R Users Have About Plots](https://www.datacamp.com/community/tutorials/15-questions-about-r-plots)
+
+[12 Extensions to ggplot2 for More Powerful R Visualizations](https://blog.modeanalytics.com/r-ggplot-extension-packages/)
