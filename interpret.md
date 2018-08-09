@@ -2,6 +2,8 @@
 
 [Ideas on interpreting machine learning](https://www.oreilly.com/ideas/ideas-on-interpreting-machine-learning)
 
+[Data Science Delivered](https://github.com/ianozsvald/data_science_delivered)
+
 [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable by Christoph Molnar](https://christophm.github.io/interpretable-ml-book/)
 
 [iml: interpretable machine learning R package](https://github.com/christophM/iml)
