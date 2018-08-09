@@ -402,6 +402,8 @@ https://livebook.datascienceheroes.com/
 
 [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/index.html)
 
+[R for Data Science](http://r4ds.had.co.nz/)
+
 
 ## SQL
 
