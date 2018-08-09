@@ -42,29 +42,6 @@ A preliminary organization.
 
 ## Tutorials
 
-https://www.kdnuggets.com/2018/02/introduction-python-ensembles.html
-
-http://www.rblog.uni-freiburg.de/2017/03/07/ensemble-learning-in-r/
-
-https://mlwave.com/kaggle-ensembling-guide/
-
-https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
-
-https://medium.com/convoy-tech/the-best-of-both-worlds-linear-model-trees-7c9ce139767d
-
-https://realpython.com/python-data-cleaning-numpy-pandas/
-
-https://gigadom.wordpress.com/
-
-https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
-
-[Machine Learning Walk Through Part 1](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
-
-[Machine Learning Walk Through Part 2](https://towardsdatascience.com/a-complete-machine-learning-project-walk-through-in-python-part-two-300f1f8147e2)
-
-[Trevor Stephens - Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
-
-
 
 
 ## Learning Machine Learning
