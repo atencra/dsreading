@@ -19,3 +19,6 @@
 
 [Code for Stacking Models for Improved Predictions](https://github.com/bhimmetoglu/kaggle_101/tree/master/HousePrices)
 
+[Introduction to Python Ensembles](https://www.dataquest.io/blog/introduction-to-ensembles/)
+
+[Ensemble Learning](http://flennerhag.com/2017-04-18-introduction-to-ensembles/)
