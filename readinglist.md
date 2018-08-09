@@ -125,6 +125,8 @@ https://freakonometrics.hypotheses.org/19835
 
 [An intuitive introduction to support vector machines using R – Part 1](https://eight2late.wordpress.com/2018/06/06/an-intuitive-introduction-to-support-vector-machines-using-r-part-1/)
 
+[How Support Vector Machines Work](https://brohrer.github.io/open_the_black_box.html)
+
 [How decision trees work](https://brohrer.github.io/how_decision_trees_work.html)
 
 
