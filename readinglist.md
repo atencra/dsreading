@@ -71,7 +71,7 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
 [Elements of AI](https://www.elementsofai.com/)
 
-[FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml)
+[Foundations of Machine Learning](https://bloomberg.github.io/foml)
 
 [Essentials of Machine Learning Algorithms (with Python and R Codes)](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 
