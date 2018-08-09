@@ -1,5 +1,7 @@
 # Anomaly and Fraud Analysis
 
+[Detecting Financial Fraud Using Machine Learning: Winning the War Against Imbalanced Data](https://towardsdatascience.com/detecting-financial-fraud-using-machine-learning-three-ways-of-winning-the-war-against-imbalanced-a03f8815cce9)
+
 [Introduction to One-class Support Vector Machines](http://rvlasveld.github.io/blog/2013/07/12/introduction-to-one-class-support-vector-machines/)
 
 [Introduction to Anomaly Detection](https://www.datascience.com/blog/python-anomaly-detection)
