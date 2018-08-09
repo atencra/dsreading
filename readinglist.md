@@ -242,14 +242,6 @@ http://alexhwilliams.info/itsneuronalblog/2015/11/18/clustering-is-easy/
 
 ## Dimension Reduction
 
-https://tgmstat.wordpress.com/2013/11/28/computing-and-visualizing-pca-in-r/
-
-http://www.win-vector.com/blog/2016/05/pcr_part1_xonly/
-
-http://www.win-vector.com/blog/2016/05/pcr_part2_yaware/
-
-http://www.win-vector.com/blog/2016/05/pcr_part3_pickk/
-
 
 ## Python: Pandas
 
