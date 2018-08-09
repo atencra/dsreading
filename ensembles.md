@@ -12,3 +12,5 @@
 [Beware Default Random Forest Importances](http://explained.ai/rf-importance/index.html)
 
 [Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/)
+
+[Ensemble Methods: Elegant Techniques to Produce Improved Machine Learning Results](https://www.toptal.com/machine-learning/ensemble-methods-machine-learning)
