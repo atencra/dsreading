@@ -34,6 +34,8 @@ A preliminary organization.
 
 ## Learning Machine Learning
 
+[https://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html](https://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html)
+
 [Elements of AI](https://www.elementsofai.com/)
 
 [Foundations of Machine Learning](https://bloomberg.github.io/foml)
