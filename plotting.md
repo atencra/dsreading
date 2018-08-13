@@ -54,3 +54,5 @@ https://datascienceplus.com/taking-the-baseline-measurement-into-account-constra
 
 [Rattle: A Graphical User Interface for Data Mining using R](https://rattle.togaware.com/)
 
+[colorblindr: An R package to simulate colorblindness on R figures](https://github.com/clauswilke/colorblindr)
+
