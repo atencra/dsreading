@@ -335,6 +335,8 @@ https://www.stoltzmaniac.com/random-forest-classification-of-mushrooms/
 
 [Data Science and Robots: Brandon Rohrer](https://brohrer.github.io/blog.html)
 
+[Business Science](http://www.business-science.io/)
+
 
 ## Cheat Sheets
 
@@ -370,6 +372,8 @@ https://livebook.datascienceheroes.com/
 [An Introduction to Statistical and Data Sciences via R](https://moderndive.com/index.html)
 
 [R for Data Science](http://r4ds.had.co.nz/)
+
+[Top Data Science Books](https://www.bookscrolling.com/the-best-data-science-books-of-all-time/)
 
 
 ## SQL
