@@ -35,3 +35,5 @@
 [Justin Markham Pandas Videos](https://github.com/justmarkham/pandas-videos)
 
 [Tom Augspurger Pandas Series](http://tomaugspurger.github.io/archives.html)
+
+[Helpful Python Code Snippets for Data Exploration in Pandas](https://medium.com/@msalmon00/helpful-python-code-snippets-for-data-exploration-in-pandas-b7c5aed5ecb9)
