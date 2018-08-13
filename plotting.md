@@ -16,6 +16,8 @@
 
 [The Complete ggplot2 Tutorial - Part1 | Introduction To ggplot2 (Full R code)](http://r-statistics.co/Complete-Ggplot2-Tutorial-Part1-With-R-Code.html)
 
+[Standard Error](http://t-redactyl.io/archives.html)
+
 https://rollingyours.wordpress.com/2014/02/17/conditioning-and-grouping-with-lattice-graphics/
 
 https://realpython.com/python-matplotlib-guide/
