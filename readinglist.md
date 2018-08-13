@@ -386,6 +386,8 @@ https://livebook.datascienceheroes.com/
 
 [Top Data Science Books](https://www.bookscrolling.com/the-best-data-science-books-of-all-time/)
 
+[Data Science For Business: 3 Reasons You Need To Learn The Expected Value Framework](https://www.kdnuggets.com/2018/07/data-science-business-expected-value-framework.html)
+
 
 ## SQL
 
