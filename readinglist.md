@@ -40,6 +40,8 @@ A preliminary organization.
 
 [Foundations of Machine Learning](https://bloomberg.github.io/foml)
 
+[Machine Learning: An In-Depth Guide - Overview, Goals, Learning Types, and Algorithms](https://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
+
 [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 
 [Model-based Machine Learning](http://www.mbmlbook.com)
