@@ -100,6 +100,15 @@ https://freakonometrics.hypotheses.org/19835
 
 [XGBoost Documentation](https://xgboost.readthedocs.io)
 
+https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html
+
+
+[Managing Machine Learning Workflows with Scikit-learn Pipelines Part 1: A Gentle Introduction](https://www.kdnuggets.com/2017/12/managing-machine-learning-workflows-scikit-learn-pipelines-part-1.html)
+
+[Managing Machine Learning Workflows with Scikit-learn Pipelines Part 2: Integrating Grid Search](https://www.kdnuggets.com/2018/01/managing-machine-learning-workflows-scikit-learn-pipelines-part-2.html)
+
+[Managing Machine Learning Workflows with Scikit-learn Pipelines Part 3: Multiple Models, Pipelines, and Grid Searches](https://www.kdnuggets.com/2018/01/managing-machine-learning-workflows-scikit-learn-pipelines-part-3.html)
+
 
 ## Feature Engineering
 
