@@ -85,3 +85,5 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
 [HR ANALYTICS: USING MACHINE LEARNING TO PREDICT EMPLOYEE TURNOVER](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html)
 
+
+[A Gentle Introduction to Data Science for Credit Risk Modeling — Part 1](https://towardsdatascience.com/an-intro-to-data-science-for-credit-risk-modelling-57935805a911)
