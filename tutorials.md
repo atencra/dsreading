@@ -83,3 +83,5 @@ https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
 
 [Trevor Stephens - Titanic: Getting Started With R](http://trevorstephens.com/kaggle-titanic-tutorial/getting-started-with-r/)
 
+[HR ANALYTICS: USING MACHINE LEARNING TO PREDICT EMPLOYEE TURNOVER](http://www.business-science.io/business/2017/09/18/hr_employee_attrition.html)
+
