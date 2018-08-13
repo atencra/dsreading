@@ -24,6 +24,8 @@
 
 [DALEX: Descriptive mAchine Learning EXplanations](https://pbiecek.github.io/DALEX/)
 
+[Ceteris Paribus v0.3 is on cran](http://smarterpoland.pl/index.php/2018/08/ceteris-paribus-v0-3-is-on-cran/)
+
 [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
 
 [Beyond Explainability: A Practical Guide to Managing Risk in Machine Learning Models](https://www.immuta.com/beyond/)
