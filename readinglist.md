@@ -390,6 +390,7 @@ https://livebook.datascienceheroes.com/
 
 [Data Science For Business: 3 Reasons You Need To Learn The Expected Value Framework](https://www.kdnuggets.com/2018/07/data-science-business-expected-value-framework.html)
 
+[Emergent Design in Enterprise IT](https://aits.org/2014/11/emergent-design-in-enterprise-it/)
 
 ## SQL
 
