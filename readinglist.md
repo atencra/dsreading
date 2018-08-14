@@ -392,6 +392,8 @@ https://livebook.datascienceheroes.com/
 
 [Emergent Design in Enterprise IT](https://aits.org/2014/11/emergent-design-in-enterprise-it/)
 
+[Emergent design in enterprise IT](https://eight2late.wordpress.com/2014/10/28/emergent-design-in-enterprise-it/)
+
 ## SQL
 
 ## Python
