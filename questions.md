@@ -34,3 +34,8 @@
 [Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
 
 [Netflix Data Science Interview Questions: Acing the AI Interview](https://www.kdnuggets.com/2018/06/netflix-data-science-interview-questions-acing-the-ai-interview.html)
+
+[30 Quick Python Programming Questions On List, Tuple & Dictionary](https://www.techbeamers.com/python-programming-questions-list-tuple-dictionary/)
+
+
+
