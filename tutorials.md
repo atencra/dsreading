@@ -72,11 +72,11 @@ https://www.kdnuggets.com/2018/02/introduction-python-ensembles.html
 
 [The Best of Both Worlds: Linear Model Trees](https://medium.com/convoy-tech/the-best-of-both-worlds-linear-model-trees-7c9ce139767d)
 
-https://realpython.com/python-data-cleaning-numpy-pandas/
+[Pythonic Data Cleaning With NumPy and Pandas](https://realpython.com/python-data-cleaning-numpy-pandas/)
 
-https://gigadom.wordpress.com/
+[Giga Thoughts: Tutorials in R and Python](https://gigadom.wordpress.com/)
 
-https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/
+[Tune Machine Learning Algorithms in R (random forest case study)](https://machinelearningmastery.com/tune-machine-learning-algorithms-in-r/)
 
 [Machine Learning Walk Through Part 1](https://towardsdatascience.com/a-complete-machine-learning-walk-through-in-python-part-one-c62152f39420)
 
