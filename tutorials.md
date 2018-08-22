@@ -22,11 +22,15 @@
 
 [Python Machine Learning Tutorial](https://www.python-course.eu/machine_learning.php)
 
-[Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/)
+[Data Science Tutorial For Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/)
 
 [Feature Selection and Data Visualization](https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization)
 
-[Machine Learning Tutorial for Beginners](Data Science Tutorial for Beginners](https://www.kaggle.com/kanncaa1/data-sciencetutorial-for-beginners/)
+[Machine Learning Tutorial For Beginners](https://www.kaggle.com/kanncaa1/machine-learning-tutorial-for-beginners/)
+
+[Deep Learning Tutorial For Beginners](https://www.kaggle.com/kanncaa1/deep-learning-tutorial-for-beginners)
+
+[Statistical Learning Tutorial For Beginners](https://www.kaggle.com/kanncaa1/statistical-learning-tutorial-for-beginners)
 
 [Caret Package – A Practical Guide to Machine Learning in R](https://www.machinelearningplus.com/machine-learning/caret-package/)
 
