@@ -18,7 +18,6 @@
 [Python Machine Learning (2nd Ed.) Code Repository](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
 
 
-
 ## Tutorials and workshops 
 
 [Python Machine Learning Tutorial](https://www.python-course.eu/machine_learning.php)
@@ -57,9 +56,7 @@
 
 [IRIS DATASET AND XGBOOST SIMPLE TUTORIAL](http://ieva.rocks/2016/08/25/iris_dataset_and_xgboost_simple_tutorial/)
 
-
 [Grid search xgboost with scikit-learn](https://www.kaggle.com/tanitter/grid-search-xgboost-with-scikit-learn)
-
 
 https://www.kdnuggets.com/2018/02/introduction-python-ensembles.html
 
