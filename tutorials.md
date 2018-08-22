@@ -64,13 +64,13 @@
 
 https://www.kdnuggets.com/2018/02/introduction-python-ensembles.html
 
-http://www.rblog.uni-freiburg.de/2017/03/07/ensemble-learning-in-r/
+[Ensemble Learning In R](http://www.rblog.uni-freiburg.de/2017/03/07/ensemble-learning-in-r/)
 
-https://mlwave.com/kaggle-ensembling-guide/
+[Kaggle Ensembling Guide](https://mlwave.com/kaggle-ensembling-guide/)
 
-https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e
+[How To Solve 90% Of NLP Problems](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
-https://medium.com/convoy-tech/the-best-of-both-worlds-linear-model-trees-7c9ce139767d
+[The Best of Both Worlds: Linear Model Trees](https://medium.com/convoy-tech/the-best-of-both-worlds-linear-model-trees-7c9ce139767d)
 
 https://realpython.com/python-data-cleaning-numpy-pandas/
 
