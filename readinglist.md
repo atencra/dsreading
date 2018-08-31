@@ -418,6 +418,8 @@ https://www.machinelearningplus.com/python/101-numpy-exercises-python/
 
 ## R
 
+[Quick-R / R In Action](https://www.statmethods.net/index.html)
+
 [R Package Documentation](https://rdrr.io/)
 
 http://www.burns-stat.com/documents/public-domain-code/
@@ -437,6 +439,8 @@ https://anythingbutrbitrary.blogspot.com/2012/08/manipulating-data-frames-using-
 https://rollingyours.wordpress.com/2014/10/20/the-lapply-command-101/
 
 [r-statistics.co](http://r-statistics.co/)
+
+[R In Action: Source Code](https://github.com/kabacoff/RiA2)
 
 ## Matlab
 
