@@ -41,3 +41,6 @@
 [Interpreting machine learning models with the lime package for R](http://blog.revolutionanalytics.com/2018/06/lime-package.html)
 
 [Interpreting Machine Learning Models with the iml Package](http://uc-r.github.io/iml-pkg)
+
+[How to visualize decision trees](http://explained.ai/decision-tree-viz/index.html)
+
